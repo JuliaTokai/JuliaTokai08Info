@@ -52,7 +52,7 @@ Note:
 
 + antimon2: XXX
 + hyrodium: MCMCで求めるHoly Numbers
-+ …
++ [ごまふあざらし: BinaryBuilder.jl 入門](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/binarybuilder/build/)
 
 ---
 
