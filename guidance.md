@@ -50,7 +50,7 @@ Note:
 
 ## 本日の発表
 
-+ antimon2: XXX
++ antimon2: [Juliaでマルチスレッド入門](https://hackmd.io/@antimon2/SkxEhBzYD)
 + hyrodium: MCMCで求めるHoly Numbers
 + [ごまふあざらし: BinaryBuilder.jl 入門](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/binarybuilder/build/)
 + TsuMakoto: julia x vim という世界線
