@@ -54,6 +54,7 @@ Note:
 + hyrodium: MCMCで求めるHoly Numbers
 + [ごまふあざらし: BinaryBuilder.jl 入門](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/binarybuilder/build/)
 + TsuMakoto: julia x vim という世界線
++ たつおか: 数値計算に便利なJuliaのマクロの紹介
 
 ---
 
